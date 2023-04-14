@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.32eefbcd.css",
+    "main.js": "/e-commerce/static/js/main.bcc30502.js",
+    "static/media/spacejoy-h2_3dL9yLpU-unsplash.jpg": "/e-commerce/static/media/spacejoy-h2_3dL9yLpU-unsplash.4926a40e86bac7efbf11.jpg",
+    "static/media/garden1.jpg": "/e-commerce/static/media/garden1.17b890b4841b9779ca45.jpg",
+    "static/media/garden2.jpg": "/e-commerce/static/media/garden2.18fe9307a137f086d91c.jpg",
+    "static/media/garden3.jpg": "/e-commerce/static/media/garden3.ab61ef25407c02c550e4.jpg",
+    "static/media/dining room2.jpg": "/e-commerce/static/media/dining room2.550468b95d9793d765e2.jpg",
+    "static/media/bathroom5.jpg": "/e-commerce/static/media/bathroom5.f41ac79f54c591af94a1.jpg",
+    "static/media/ahmed-amir-jAA28GP8JVo-unsplash-COLLAGE.jpg": "/e-commerce/static/media/ahmed-amir-jAA28GP8JVo-unsplash-COLLAGE.9f148d57c3e3ff795073.jpg",
+    "static/media/bathroom3.jpg": "/e-commerce/static/media/bathroom3.b7318e5f4121191b713b.jpg",
+    "static/media/bathroom1.jpg": "/e-commerce/static/media/bathroom1.68439a4855f62fb06fe2.jpg",
+    "static/media/bedroom5.jpg": "/e-commerce/static/media/bedroom5.6e9eba3cf0843991cf73.jpg",
+    "static/media/dining room1.jpg": "/e-commerce/static/media/dining room1.f39b24dec1713cffd74b.jpg",
+    "static/media/bedroom4.jpg": "/e-commerce/static/media/bedroom4.7e7dcd2da233dd1574f0.jpg",
+    "static/media/kitchen3.jpg": "/e-commerce/static/media/kitchen3.8eb902d0b1d61f6c2ce0.jpg",
+    "static/media/bedroom1.jpg": "/e-commerce/static/media/bedroom1.cf6ca8e95d86bf0bb6a0.jpg",
+    "static/media/kitchen5.jpg": "/e-commerce/static/media/kitchen5.22f0689f2f272fca8b28.jpg",
+    "static/media/office1.jpg": "/e-commerce/static/media/office1.05b9e37534d21a99d2c7.jpg",
+    "static/media/bedroom3.jpg": "/e-commerce/static/media/bedroom3.6486dff89ff12fe6b03a.jpg",
+    "static/media/bathroom4.jpg": "/e-commerce/static/media/bathroom4.6bed694a6926ed8fa7b6.jpg",
+    "static/media/kitchen2.jpg": "/e-commerce/static/media/kitchen2.2a4d40e6baea827e484b.jpg",
+    "static/media/bedroom2.jpg": "/e-commerce/static/media/bedroom2.60736f9092165668b137.jpg",
+    "static/media/kitchen1.jpg": "/e-commerce/static/media/kitchen1.2e40d54111c7f0d2a770.jpg",
+    "static/media/bathroom2.jpg": "/e-commerce/static/media/bathroom2.61a99100dc671910c8de.jpg",
+    "static/media/kitchen4.jpg": "/e-commerce/static/media/kitchen4.76a3b82368b962f14435.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.32eefbcd.css.map": "/e-commerce/static/css/main.32eefbcd.css.map",
+    "main.bcc30502.js.map": "/e-commerce/static/js/main.bcc30502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32eefbcd.css",
+    "static/js/main.bcc30502.js"
+  ]
+}
