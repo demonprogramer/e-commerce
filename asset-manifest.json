@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/e-commerce/static/css/main.32eefbcd.css",
-    "main.js": "/e-commerce/static/js/main.bcc30502.js",
+    "main.css": "/e-commerce/static/css/main.25458620.css",
+    "main.js": "/e-commerce/static/js/main.0c00377b.js",
     "static/media/spacejoy-h2_3dL9yLpU-unsplash.jpg": "/e-commerce/static/media/spacejoy-h2_3dL9yLpU-unsplash.4926a40e86bac7efbf11.jpg",
     "static/media/garden1.jpg": "/e-commerce/static/media/garden1.17b890b4841b9779ca45.jpg",
     "static/media/garden2.jpg": "/e-commerce/static/media/garden2.18fe9307a137f086d91c.jpg",
@@ -26,11 +26,11 @@
     "static/media/bathroom2.jpg": "/e-commerce/static/media/bathroom2.61a99100dc671910c8de.jpg",
     "static/media/kitchen4.jpg": "/e-commerce/static/media/kitchen4.76a3b82368b962f14435.jpg",
     "index.html": "/e-commerce/index.html",
-    "main.32eefbcd.css.map": "/e-commerce/static/css/main.32eefbcd.css.map",
-    "main.bcc30502.js.map": "/e-commerce/static/js/main.bcc30502.js.map"
+    "main.25458620.css.map": "/e-commerce/static/css/main.25458620.css.map",
+    "main.0c00377b.js.map": "/e-commerce/static/js/main.0c00377b.js.map"
   },
   "entrypoints": [
-    "static/css/main.32eefbcd.css",
-    "static/js/main.bcc30502.js"
+    "static/css/main.25458620.css",
+    "static/js/main.0c00377b.js"
   ]
 }
